@@ -1,0 +1,2 @@
+\xEF\xBB\xBF Este é um arquivo com BOM para UTF-8.
+Outra linha de exemplo.
