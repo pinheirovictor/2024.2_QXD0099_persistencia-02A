@@ -1,0 +1,104 @@
+{
+    "clientes": [
+      {
+        "id_cliente": 1,
+        "nome": "João Silva",
+        "email": "joao.silva@email.com",
+        "telefone": "(11) 91234-5678",
+        "compras": [
+          {
+            "id_compra": 101,
+            "data": "2024-01-15",
+            "itens": [
+              {
+                "produto": "Camiseta Azul",
+                "quantidade": 2,
+                "preco_unitario": 50.00
+              },
+              {
+                "produto": "Calça Jeans",
+                "quantidade": 1,
+                "preco_unitario": 100.00
+              }
+            ],
+            "total": 200.00
+          },
+          {
+            "id_compra": 102,
+            "data": "2024-02-20",
+            "itens": [
+              {
+                "produto": "Tênis Esportivo",
+                "quantidade": 1,
+                "preco_unitario": 150.00
+              }
+            ],
+            "total": 150.00
+          }
+        ]
+      },
+      {
+        "id_cliente": 2,
+        "nome": "Maria Oliveira",
+        "email": "maria.oliveira@email.com",
+        "telefone": "(21) 98765-4321",
+        "compras": [
+          {
+            "id_compra": 103,
+            "data": "2024-03-10",
+            "itens": [
+              {
+                "produto": "Blusa Vermelha",
+                "quantidade": 1,
+                "preco_unitario": 80.00
+              },
+              {
+                "produto": "Mochila",
+                "quantidade": 1,
+                "preco_unitario": 120.00
+              }
+            ],
+            "total": 200.00
+          }
+        ]
+      },
+      {
+        "id_cliente": 3,
+        "nome": "Ana Costa",
+        "email": "ana.costa@email.com",
+        "telefone": "(31) 95678-1234",
+        "compras": [
+          {
+            "id_compra": 104,
+            "data": "2024-04-05",
+            "itens": [
+              {
+                "produto": "Relógio Digital",
+                "quantidade": 1,
+                "preco_unitario": 250.00
+              }
+            ],
+            "total": 250.00
+          },
+          {
+            "id_compra": 105,
+            "data": "2024-05-15",
+            "itens": [
+              {
+                "produto": "Óculos de Sol",
+                "quantidade": 2,
+                "preco_unitario": 75.00
+              },
+              {
+                "produto": "Carteira",
+                "quantidade": 1,
+                "preco_unitario": 50.00
+              }
+            ],
+            "total": 200.00
+          }
+        ]
+      }
+    ]
+  }
+  
