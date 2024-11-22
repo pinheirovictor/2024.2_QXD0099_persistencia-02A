@@ -1,0 +1,2 @@
+arquivo1.txt - Palavras: 406, Caracteres: 2414
+arquivo2.txt - Palavras: 285, Caracteres: 1978
