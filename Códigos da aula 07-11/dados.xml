@@ -1,0 +1,101 @@
+<clientes>
+    <cliente>
+        <id_cliente>1</id_cliente>
+        <nome>João Silva</nome>
+        <email>joao.silva@email.com</email>
+        <telefone>(11) 91234-5678</telefone>
+        <compras>
+            <compra>
+                <id_compra>101</id_compra>
+                <data>2024-01-15</data>
+                <itens>
+                    <item>
+                        <produto>Camiseta Azul</produto>
+                        <quantidade>2</quantidade>
+                        <preco_unitario>50.00</preco_unitario>
+                    </item>
+                    <item>
+                        <produto>Calça Jeans</produto>
+                        <quantidade>1</quantidade>
+                        <preco_unitario>100.00</preco_unitario>
+                    </item>
+                </itens>
+                <total>200.00</total>
+            </compra>
+            <compra>
+                <id_compra>102</id_compra>
+                <data>2024-02-20</data>
+                <itens>
+                    <item>
+                        <produto>Tênis Esportivo</produto>
+                        <quantidade>1</quantidade>
+                        <preco_unitario>150.00</preco_unitario>
+                    </item>
+                </itens>
+                <total>150.00</total>
+            </compra>
+        </compras>
+    </cliente>
+    <cliente>
+        <id_cliente>2</id_cliente>
+        <nome>Maria Oliveira</nome>
+        <email>maria.oliveira@email.com</email>
+        <telefone>(21) 98765-4321</telefone>
+        <compras>
+            <compra>
+                <id_compra>103</id_compra>
+                <data>2024-03-10</data>
+                <itens>
+                    <item>
+                        <produto>Blusa Vermelha</produto>
+                        <quantidade>1</quantidade>
+                        <preco_unitario>80.00</preco_unitario>
+                    </item>
+                    <item>
+                        <produto>Mochila</produto>
+                        <quantidade>1</quantidade>
+                        <preco_unitario>120.00</preco_unitario>
+                    </item>
+                </itens>
+                <total>200.00</total>
+            </compra>
+        </compras>
+    </cliente>
+    <cliente>
+        <id_cliente>3</id_cliente>
+        <nome>Ana Costa</nome>
+        <email>ana.costa@email.com</email>
+        <telefone>(31) 95678-1234</telefone>
+        <compras>
+            <compra>
+                <id_compra>104</id_compra>
+                <data>2024-04-05</data>
+                <itens>
+                    <item>
+                        <produto>Relógio Digital</produto>
+                        <quantidade>1</quantidade>
+                        <preco_unitario>250.00</preco_unitario>
+                    </item>
+                </itens>
+                <total>250.00</total>
+            </compra>
+            <compra>
+                <id_compra>105</id_compra>
+                <data>2024-05-15</data>
+                <itens>
+                    <item>
+                        <produto>Óculos de Sol</produto>
+                        <quantidade>2</quantidade>
+                        <preco_unitario>75.00</preco_unitario>
+                    </item>
+                    <item>
+                        <produto>Carteira</produto>
+                        <quantidade>1</quantidade>
+                        <preco_unitario>50.00</preco_unitario>
+                    </item>
+                </itens>
+                <total>200.00</total>
+            </compra>
+        </compras>
+    </cliente>
+</clientes>

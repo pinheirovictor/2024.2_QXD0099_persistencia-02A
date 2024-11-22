@@ -1,0 +1,8 @@
+Produto,"Categoria","QuantidadeVendida","ReceitaTotal (R$)","CustoUnitário (R$)","LucroBruto (R$)"
+"CamisetaBásica",Vestuário,150,"4.500,00","20,00","1.500,00"
+Calça Jeans,Vestuário,100,"12.000,00","60,00","6.000,00"
+"TênisEsportivo",Calçados,80,"16.000,00","100,00","8.000,00"
+"RelógioDigital","Acessórios",60,"9.000,00","100,00","3.000,00"
+Mochila,"Acessórios",50,"7.500,00","90,00","2.000,00"
+"Blusa deMoletom",Vestuário,120,"9.600,00","60,00","2.400,00"
+"SapatoSocial",Calçados,30,"6.000,00","150,00","1.500,00"
