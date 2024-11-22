@@ -1,0 +1,8 @@
+[pessoa]
+nome = "Alice"
+idade = 25
+cursos = [ "Python", "Data Science",]
+
+[configuracoes]
+tema = "escuro"
+notificacoes = true

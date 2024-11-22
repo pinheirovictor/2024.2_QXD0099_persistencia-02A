@@ -1,0 +1,38 @@
+{
+    'nome': 'Alice',
+    'idade': 25,
+    'profissao': 'Cientista de Dados',
+    'cidade': 'São Paulo',
+    'cursos': [
+        {'nome': 'Python', 'nivel': 'Intermediário', 'ano': 2022},
+        {'nome': 'Data Science', 'nivel': 'Avançado', 'ano': 2023},
+        {'nome': 'Machine Learning', 'nivel': 'Básico', 'ano': 2024}
+    ],
+    'experiencia': [
+        {
+            'empresa': 'Tech Solutions',
+            'cargo': 'Analista de Dados',
+            'periodo': '2021-2023',
+            'responsabilidades': [
+                'Análise de dados para projetos internos',
+                'Criação de dashboards e relatórios',
+                'Automatização de processos de coleta de dados'
+            ]
+        },
+        {
+            'empresa': 'Data Insights',
+            'cargo': 'Estagiária em Data Science',
+            'periodo': '2020-2021',
+            'responsabilidades': [
+                'Limpeza e preparação de dados',
+                'Desenvolvimento de scripts em Python',
+                'Auxílio na criação de modelos de previsão'
+            ]
+        }
+    ],
+    'habilidades': ['Python', 'Machine Learning', 'Análise de Dados', 'SQL', 'Visualização de Dados'],
+    'idiomas': [
+        {'idioma': 'Inglês', 'nivel': 'Avançado'},
+        {'idioma': 'Espanhol', 'nivel': 'Intermediário'}
+    ]
+}
