@@ -1,0 +1,7 @@
+2024-11-20 20:56:46,740 - ERROR - Arquivo JSON 'data.json' n�o encontrado.
+2024-11-20 20:57:11,316 - ERROR - Erro ao decodificar o JSON: Expecting value: line 1 column 1 (char 0)
+2024-11-20 20:57:14,508 - ERROR - Erro ao decodificar o JSON: Expecting value: line 1 column 1 (char 0)
+2024-11-20 20:57:21,867 - INFO - Arquivo JSON 'data.json' carregado com sucesso.
+2024-11-20 20:57:21,867 - INFO - Processando registro: {'id': 1, 'name': 'John', 'age': 30}
+2024-11-20 20:57:21,867 - INFO - Processando registro: {'id': 2, 'name': 'Alice', 'age': 25}
+2024-11-20 20:57:21,867 - WARNING - Erro no registro: Dado inv�lido: {'id': 3, 'name': 'Bob', 'age': None}

@@ -1,0 +1,7 @@
+logging:
+  level: "INFO"  # Nível do log: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "app.log"
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+
+data:
+  file: "data.json"  # Arquivo JSON com dados a serem processados
