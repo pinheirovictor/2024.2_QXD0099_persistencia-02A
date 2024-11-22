@@ -1,0 +1,14 @@
+<produtos>
+    <produto>
+        <id>1</id>
+        <nome>Item novo </nome>
+        <preco>99.9666669</preco>
+        <quantidade>12</quantidade>
+    </produto>
+    <produto>
+        <id>2</id>
+        <nome>Item novo </nome>
+        <preco>99.9666669</preco>
+        <quantidade>12</quantidade>
+    </produto>
+</produtos>
